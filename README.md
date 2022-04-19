@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Online View
+## Online View
 
 https://jakubzapadka.github.io/TwitchUserInfo
 ![TUI](https://user-images.githubusercontent.com/102255945/164007812-92244bbd-ef9f-4f97-a334-79d827470eb1.png)
