@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TwitchUserInfo/static/css/main.603b845a.css",
+    "main.js": "/TwitchUserInfo/static/js/main.a2894656.js",
+    "index.html": "/TwitchUserInfo/index.html",
+    "main.603b845a.css.map": "/TwitchUserInfo/static/css/main.603b845a.css.map",
+    "main.a2894656.js.map": "/TwitchUserInfo/static/js/main.a2894656.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.603b845a.css",
+    "static/js/main.a2894656.js"
+  ]
+}
